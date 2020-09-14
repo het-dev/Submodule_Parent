@@ -1,3 +1,6 @@
 [submodule "Submodule_Child"]
 	path = Submodule_Child
 	url = https://github.com/het-dev/Submodule_Child.git
+[submodule "modules/Submodule_Child"]
+	path = modules/Submodule_Child
+	url = https://github.com/het-dev/Submodule_Child.git
